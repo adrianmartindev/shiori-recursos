@@ -4,6 +4,6 @@ Los recursos que comparto en [Shiori](https://www.adrianmartin.me/shiori/), mi n
 
 | Nº | Edición | Recursos |
 |---|---|---|
-| 001 | El modelo es lo que menos controlas | Mis instrucciones para trabajar con IA (próximamente) |
+| 001 | [El modelo es lo que menos controlas](001-el-modelo-es-lo-que-menos-controlas/) | [Mis instrucciones para trabajar con IA](001-el-modelo-es-lo-que-menos-controlas/instrucciones-ia.md) |
 
 Si quieres recibir los próximos números, puedes apuntarte en [adrianmartin.me/shiori](https://www.adrianmartin.me/shiori/).
